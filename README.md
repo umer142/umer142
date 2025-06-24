@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1GJBqeqZ-BCTtfI5E5AhCDpArHHgLLGrM/view?usp=sharing)](https://github.com/umer142)
+
 
 <h1 align="center">Hi 👋, I'm Umer Shafiq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
